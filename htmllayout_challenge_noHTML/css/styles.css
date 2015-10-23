@@ -24,3 +24,67 @@ h1, h2, h3, h4, h5, p, a, body
 
 /* BEGIN YOUR CHANGES HERE */
 
+.btn{
+    border-radius: 25px;
+    border-color: #FF0066;
+    color: white;
+    background-color: #FF0066;
+    border-color: #FF0066;
+    padding: 10px 40px;
+}
+
+.navLogin
+{
+    float: right;
+    margin-top: 18px;
+    margin-right: 70px;
+    background-color: white;
+    border: 2px solid #FF0066;
+    color: #FF0066;
+}
+
+.navSubscribe
+{
+    float: right;
+    margin-top: 18px;
+    margin-right: 15px;
+}
+
+.splash-image{
+	background: url(../img/hero-photo.png);
+	width: 100%;
+	height: 500px;
+	margin-top: 50px;
+
+}	
+
+.splashcontent{
+    position: absolute;
+    top: 350px;
+    left: 320px;
+    color: white;
+}
+
+.songs{
+	font-size: 40px;
+	width: 330px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	}
+
+.device{
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
